@@ -50,3 +50,25 @@ namespace HelloWorld
 
 
 [Amazon](https://www.amazon.de)
+
+
+
+# Meemes
+
+
+![NO BITCHES](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Fmobile%2F000%2F039%2F393%2Fcover2.jpg)
+
+`NO BITCHES`
+
+
+
+
+
+
+
+![HEHEheHA](https://i.scdn.co/image/ab67616d0000b273b34ee1730f4eaf35f83655d8)
+
+`HEHEHEHA`
+
+
+![](https://tenor.com/view/clash-royale-gif-5535732)
