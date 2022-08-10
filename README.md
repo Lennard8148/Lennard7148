@@ -86,7 +86,7 @@ namespace HelloWorld
 
 
 
-<img src="https://user-images.githubusercontent.com/110892642/183912593-defbfd99-f361-4e73-be75-49a342c13e43.jpg" width=200% height=1000%>
+<img src="https://user-images.githubusercontent.com/110892642/183912593-defbfd99-f361-4e73-be75-49a342c13e43.jpg" width=100% height=10%>
 
 `Dario de KEK`
 
