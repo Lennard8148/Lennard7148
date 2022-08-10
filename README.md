@@ -81,12 +81,12 @@ namespace HelloWorld
 `Luca und Nicola`
 
 
-<img scr="https://user-images.githubusercontent.com/110892642/183900185-f32c7330-25c2-47f4-8409-c3da4ab235e7.gif" width=100% height=20%>
+<img src="https://user-images.githubusercontent.com/110892642/183900185-f32c7330-25c2-47f4-8409-c3da4ab235e7.gif" width=450px height=100px>
 
 
 
 
-<img src="https://user-images.githubusercontent.com/110892642/183912593-defbfd99-f361-4e73-be75-49a342c13e43.jpg" width=40% height=40%>
+<img src="https://user-images.githubusercontent.com/110892642/183912593-defbfd99-f361-4e73-be75-49a342c13e43.jpg" width=400x height=100px>
 
 `Dario de KEK`
 
