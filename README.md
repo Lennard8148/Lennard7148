@@ -27,7 +27,8 @@ using System;
 
 namespace HelloWorld
 {
-  class Program
+  class Program<img width="540" alt="image" src="https://user-images.githubusercontent.com/110892642/183919073-2dd881d3-4a4a-4ad0-ac8e-190b317ba3ac.png">
+
   {
     static void Main(string[] args)
     {
@@ -79,7 +80,7 @@ namespace HelloWorld
 
 
 `Luca und Nicola`
-
+`Discord mod`
 
 <img src="https://user-images.githubusercontent.com/110892642/183900185-f32c7330-25c2-47f4-8409-c3da4ab235e7.gif" width=450px height=100px>
 
