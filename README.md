@@ -54,7 +54,7 @@ namespace HelloWorld
 
 
 
-# Meemes
+# Memes
 
 
 ![NO BITCHES](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Fmobile%2F000%2F039%2F393%2Fcover2.jpg)
@@ -87,7 +87,14 @@ namespace HelloWorld
 
 
 
-<img src="https://user-images.githubusercontent.com/110892642/183912593-defbfd99-f361-4e73-be75-49a342c13e43.jpg" width=400x height=100px>
+<img src="https://user-images.githubusercontent.com/110892642/183912593-defbfd99-f361-4e73-be75-49a342c13e43.jpg" width=400px height=100px>
+
 
 `Dario de KEK`
+
+
+
+<img src="https://image.stern.de/31722650/t/bE/v3/w1440/r1.7778/-/memebild.jpg" width=100% height=100%>
+
+`Ich mach de 1. Wuche a de IMS`
 
