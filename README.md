@@ -87,7 +87,7 @@ namespace HelloWorld
 
 
 
-<img src="https://user-images.githubusercontent.com/110892642/183912593-defbfd99-f361-4e73-be75-49a342c13e43.jpg" width=400px height=100px>
+<img src="https://user-images.githubusercontent.com/110892642/183912593-defbfd99-f361-4e73-be75-49a342c13e43.jpg" width=450px height=100px>
 
 
 `Dario de KEK`
@@ -103,6 +103,8 @@ namespace HelloWorld
 <img src="https://user-images.githubusercontent.com/110892642/184005774-619fd286-b7fc-4caa-a343-651bfa945aab.mp4" width=450px height=450px>
 
 `SMASH`
+
+<img src="https://user-images.githubusercontent.com/110892642/184007208-38d42d79-5b34-46f8-ace5-d7fc57bd9ddd.JPG" width=450px height=150px>
 
 
 
